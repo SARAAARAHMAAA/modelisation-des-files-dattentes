@@ -62,20 +62,28 @@ Les graphiques seront générés automatiquement et enregistrés dans les dossie
 Pour chaque modèle, les courbes suivantes sont générées :
 
 -Temps d’attente moyen en fonction de λ
+
 -Temps de réponse moyen en fonction de λ
+
 -Taux d’occupation du serveur en fonction de λ
 
 ## 🎯 Objectif pédagogique
 Ce projet permet de :
 
 -Comparer l’impact des distributions d’arrivée et de service sur les files d’attente.
+
 -Mettre en évidence les différences de performance entre les modèles M/M/1, G/M/1 et M/G/1.
+
 -Visualiser la dégradation des performances à l’approche de la saturation du système.
 
 ## 👨‍💻 Auteurs
 -CHETOUH Amira Narimane
+
 -SADAOUI Sara Rahma
+
 -DAHMANI Naila
+
+
 
 USTHB — 3ème Année CS — 2024–2025
 

@@ -42,23 +42,23 @@ MG1/
 Installez les bibliothèques nécessaires avec :
 pip install numpy matplotlib seaborn
 
-# #🚀 Lancement des simulations
+## 🚀 Lancement des simulations
 Dans chaque dossier, un script main_*.py permet de lancer les simulations et d’afficher les résultats.
 
-# Simulation du modèle M/M/1
+### Simulation du modèle M/M/1
 cd ../MM1
 python main_mm1.py
 
-# Simulation du modèle G/M/1
+### Simulation du modèle G/M/1
 cd ../GM1
 python main_gm1.py
 
-# Simulation du modèle M/G/1
+### Simulation du modèle M/G/1
 cd ../MG1
 python main_mg1.py
 Les graphiques seront générés automatiquement et enregistrés dans les dossiers GRAPHE*.
 
-# #📊 Résultats produits
+## 📊 Résultats produits
 Pour chaque modèle, les courbes suivantes sont générées :
 
    -Temps d’attente moyen en fonction de λ
@@ -67,7 +67,7 @@ Pour chaque modèle, les courbes suivantes sont générées :
 
    -Taux d’occupation du serveur en fonction de λ
 
-# #🎯 Objectif pédagogique
+## 🎯 Objectif pédagogique
 Ce projet permet de :
    -Comparer l’impact des distributions d’arrivée et de service sur les files d’attente.
 
@@ -75,7 +75,7 @@ Ce projet permet de :
 
    -Visualiser la dégradation des performances à l’approche de la saturation du système.
 
-# #👨‍💻 Auteurs
+## 👨‍💻 Auteurs
    -CHETOUH Amira Narimane
 
    -SADAOUI Sara Rahma
